@@ -1,0 +1,25 @@
+body{
+    background-image: url(landing_page.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+.text{
+    font-size: 50px;
+    color: white;
+}
+
+div{
+    margin-top: 20%;
+    margin-left: 10%;
+}
+
+button{
+    width: 88px;
+    height: 25px;
+    border-radius: 6px;
+    border-color: #FFFFFF;
+    color: white;
+    background-color: transparent;
+}
